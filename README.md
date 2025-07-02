@@ -17,7 +17,7 @@ To analyze monthly revenue and order volume trends using SQL aggregation functio
 
 ## 📁 Files
 - `sales_trend.sql`: SQL script with all queries
-- `sales_trend.csv`: Sample sales data
+- `online_sales.csv`: Sample sales data
 - `README.md`: Project summary and steps
 
 ## 📌 Outcome
