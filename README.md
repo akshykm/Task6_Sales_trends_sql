@@ -15,10 +15,10 @@ To analyze monthly revenue and order volume trends using SQL aggregation functio
 - Monthly Order Volume using `COUNT(DISTINCT)`
 - Top 3 Months by Revenue
 
-## 📁 Files
-- `sales_trend.sql`: SQL script with all queries
+## Files
+- `Sales_Trend.sql`: SQL script with all queries
 - `online_sales.csv`: Sample sales data
 - `README.md`: Project summary and steps
 
-## 📌 Outcome
+## Outcome
 This project demonstrates how to group sales data by month, calculate aggregate metrics, and analyze seasonal trends.
